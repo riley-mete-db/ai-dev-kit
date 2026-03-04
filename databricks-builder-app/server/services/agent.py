@@ -56,6 +56,7 @@ BUILTIN_TOOLS = [
   #  'Bash',
   'Glob',
   'Grep',
+  'AskUserQuestion',
 ]
 
 # Cached Databricks tools (loaded once)
